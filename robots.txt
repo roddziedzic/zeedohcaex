@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ushiegoxee.elinguist.org/sitemap.xml
